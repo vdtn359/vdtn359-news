@@ -33,7 +33,7 @@
         "framer-motion": "1.10.3",
         "helmet": "3.22.0",
         "hoist-non-react-statics": "3.3.2",
-        "http-errors": "1.7.3",
+        "http-errors": "1.8.0",
         "idb": "5.0.2",
         "ioredis": "4.16.3",
         "js-cookie": "2.2.1",
@@ -73,7 +73,7 @@
     "devDependencies": {
         "@babel/plugin-proposal-class-properties": "7.8.3",
         "@babel/plugin-proposal-decorators": "7.8.3",
-        "@types/http-errors": "1.6.3",
+        "@types/http-errors": "1.8.0",
         "@types/ioredis": "4.16.1",
         "@types/morgan": "1.9.0",
         "@types/styled-components": "5.1.0",
