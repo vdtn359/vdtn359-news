@@ -26,8 +26,8 @@ importers:
     optionalDependencies:
       '@commitlint/cli': 8.3.5
       '@commitlint/config-conventional': 8.3.4
-      '@typescript-eslint/eslint-plugin': 2.32.0_d62f11d3227a1cdaf885e74dc439a2af
-      '@typescript-eslint/parser': 2.32.0_eslint@6.8.0+typescript@3.9.6
+      '@typescript-eslint/eslint-plugin': 2.34.0_3787943315ebc5ea524d5c102dc9e452
+      '@typescript-eslint/parser': 2.34.0_eslint@6.8.0+typescript@3.9.6
       chokidar-cli: 2.1.0
       commitizen: 4.0.3
       cz-conventional-changelog: 3.2.0
@@ -54,8 +54,8 @@ importers:
       '@types/lodash': 4.14.150
       '@types/node': 13.13.5
       '@types/react': 16.9.34
-      '@typescript-eslint/eslint-plugin': 2.32.0
-      '@typescript-eslint/parser': 2.32.0
+      '@typescript-eslint/eslint-plugin': 2.34.0
+      '@typescript-eslint/parser': 2.34.0
       '@vdtn359/mono-install': 1.1.1
       '@vdtn359/semantic-release-monorepo': 1.0.5
       '@zerollup/ts-transform-paths': 1.7.12
@@ -95,7 +95,7 @@ importers:
       winston: 3.2.1
     devDependencies:
       '@types/config': 0.0.36
-      ts-node: 8.10.1
+      ts-node: 8.10.2
     specifiers:
       '@sentry/node': 5.15.4
       '@types/config': 0.0.36
@@ -109,7 +109,7 @@ importers:
       dotenv: 8.2.0
       find-up: 4.1.0
       rxjs: 6.5.5
-      ts-node: 8.10.1
+      ts-node: 8.10.2
       winston: 3.2.1
   app/scheduler:
     dependencies:
@@ -122,7 +122,7 @@ importers:
       winston: 3.2.1
     devDependencies:
       '@types/config': 0.0.36
-      ts-node: 8.10.1
+      ts-node: 8.10.2
     specifiers:
       '@types/config': 0.0.36
       '@vdtn359/news-core': 'workspace:*'
@@ -131,7 +131,7 @@ importers:
       '@vdtn359/news-utils': 'workspace:*'
       config: 3.3.1
       dotenv: 8.2.0
-      ts-node: 8.10.1
+      ts-node: 8.10.2
       winston: 3.2.1
   app/web:
     dependencies:
@@ -169,7 +169,7 @@ importers:
       logrocket-react: 4.0.1_react-dom@16.13.1+react@16.13.1
       mobile-detect: 1.4.4
       morgan: 1.10.0
-      next: 9.3.5_15ab9b97b1acc8923e06e722bb218d5c
+      next: 9.3.5_01496e136432c9af3919b4448420472a
       next-pwa: 2.4.0_next@9.3.5
       next-seo: 4.4.0_react-dom@16.13.1+react@16.13.1
       nprogress: 0.2.0
@@ -208,7 +208,7 @@ importers:
       dotenv: 8.2.0
       fast-glob: 3.2.2
       null-loader: 3.0.0
-      sass: 1.26.3
+      sass: 1.26.10
     specifiers:
       '@babel/plugin-proposal-class-properties': 7.8.3
       '@babel/plugin-proposal-decorators': 7.8.3
@@ -274,7 +274,7 @@ importers:
       reflect-metadata: 0.1.13
       rss: 1.2.2
       rxjs: 6.5.5
-      sass: 1.26.3
+      sass: 1.26.10
       semantic-ui-react: 0.88.2
       sitemap: 6.1.2
       slick-carousel: 1.8.1
@@ -302,8 +302,8 @@ importers:
     devDependencies:
       '@types/config': 0.0.36
       '@types/ioredis': 4.16.1
-      ts-node: 8.10.1
-      ttypescript: 1.5.10_ts-node@8.10.1
+      ts-node: 8.10.2
+      ttypescript: 1.5.10_ts-node@8.10.2
       webpack: 4.42.1_webpack@4.42.1
     specifiers:
       '@sentry/node': 5.15.4
@@ -321,7 +321,7 @@ importers:
       ioredis: 4.16.3
       npm-run-all: 4.1.5
       rxjs: 6.5.5
-      ts-node: 8.10.1
+      ts-node: 8.10.2
       ttypescript: 1.5.10
       webpack: 4.42.1
       winston: 3.2.1
@@ -332,11 +332,11 @@ importers:
       winston: 3.2.1
       winston-logzio: 5.0.4
     devDependencies:
-      ts-node: 8.10.1
+      ts-node: 8.10.2
     specifiers:
       '@vdtn359/news-utils': 'workspace:*'
       rxjs: 6.5.5
-      ts-node: 8.10.1
+      ts-node: 8.10.2
       winston: 3.2.1
       winston-logzio: 5.0.4
   packages/models:
@@ -3792,10 +3792,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-0Sir2LxOmupF8HBUvpJoZghLmOqKfZsBk1GYlMwSIccLDDUoN04LHvo0KzDp9qxt1IKf9Fudpj35SrJ8VqetkQ==
-  /@typescript-eslint/eslint-plugin/2.32.0_d62f11d3227a1cdaf885e74dc439a2af:
+  /@typescript-eslint/eslint-plugin/2.34.0_3787943315ebc5ea524d5c102dc9e452:
     dependencies:
-      '@typescript-eslint/experimental-utils': 2.32.0_eslint@6.8.0+typescript@3.9.6
-      '@typescript-eslint/parser': 2.32.0_eslint@6.8.0+typescript@3.9.6
+      '@typescript-eslint/experimental-utils': 2.34.0_eslint@6.8.0+typescript@3.9.6
+      '@typescript-eslint/parser': 2.34.0_eslint@6.8.0+typescript@3.9.6
       eslint: 6.8.0
       functional-red-black-tree: 1.0.1
       regexpp: 3.1.0
@@ -3813,11 +3813,11 @@ packages:
       typescript:
         optional: true
     resolution:
-      integrity: sha512-nb1kSUa8cd22hGgxpGdVT6/iyP7IKyrnyZEGYo+tN8iyDdXvXa+nfsX03tJVeFfhbkwR/0CDk910zPbqSflAsg==
-  /@typescript-eslint/experimental-utils/2.32.0_eslint@6.8.0+typescript@3.9.6:
+      integrity: sha512-4zY3Z88rEE99+CNvTbXSyovv2z9PNOVffTWD2W8QF5s2prBQtwN2zadqERcrHpcR7O/+KMI3fcTAmUUhK/iQcQ==
+  /@typescript-eslint/experimental-utils/2.34.0_eslint@6.8.0+typescript@3.9.6:
     dependencies:
       '@types/json-schema': 7.0.4
-      '@typescript-eslint/typescript-estree': 2.32.0_typescript@3.9.6
+      '@typescript-eslint/typescript-estree': 2.34.0_typescript@3.9.6
       eslint: 6.8.0
       eslint-scope: 5.0.0
       eslint-utils: 2.0.0
@@ -3829,12 +3829,12 @@ packages:
       eslint: '*'
       typescript: '*'
     resolution:
-      integrity: sha512-oDWuB2q5AXsQ/mLq2N4qtWiBASWXPf7KhqXgeGH4QsyVKx+km8F6Vfqd3bspJQyhyCqxcbLO/jKJuIV3DzHZ6A==
-  /@typescript-eslint/parser/2.32.0_eslint@6.8.0+typescript@3.9.6:
+      integrity: sha512-eS6FTkq+wuMJ+sgtuNTtcqavWXqsflWcfBnlYhg/nS4aZ1leewkXGbvBhaapn1q6qf4M71bsR1tez5JTRMuqwA==
+  /@typescript-eslint/parser/2.34.0_eslint@6.8.0+typescript@3.9.6:
     dependencies:
       '@types/eslint-visitor-keys': 1.0.0
-      '@typescript-eslint/experimental-utils': 2.32.0_eslint@6.8.0+typescript@3.9.6
-      '@typescript-eslint/typescript-estree': 2.32.0_typescript@3.9.6
+      '@typescript-eslint/experimental-utils': 2.34.0_eslint@6.8.0+typescript@3.9.6
+      '@typescript-eslint/typescript-estree': 2.34.0_typescript@3.9.6
       eslint: 6.8.0
       eslint-visitor-keys: 1.1.0
       typescript: 3.9.6
@@ -3849,8 +3849,8 @@ packages:
       typescript:
         optional: true
     resolution:
-      integrity: sha512-swRtH835fUfm2khchiOVNchU3gVNaZNj2pY92QSx4kXan+RzaGNrwIRaCyX8uqzmK0xNPzseaUYHP8CsmrsjFw==
-  /@typescript-eslint/typescript-estree/2.32.0_typescript@3.9.6:
+      integrity: sha512-03ilO0ucSD0EPTw2X4PntSIRFtDPWjrVq7C3/Z3VQHRC7+13YB55rcJI3Jt+YgeHbjUdJPcPa7b23rXCBokuyA==
+  /@typescript-eslint/typescript-estree/2.34.0_typescript@3.9.6:
     dependencies:
       debug: 4.1.1
       eslint-visitor-keys: 1.1.0
@@ -3870,7 +3870,7 @@ packages:
       typescript:
         optional: true
     resolution:
-      integrity: sha512-hQpbWM/Y2iq6jB9FHYJBqa3h1R9IEGodOtajhb261cVHt9cz30AKjXM6WP7LxJdEPPlyJ9rPTZVgBUgZgiyPgw==
+      integrity: sha512-OMAr+nJWKdlVM9LOqCqh3pQQPwxHAN7Du8DR6dmwCrAmxtiXQnhHJ6tBNtf+cggqfo51SG/FCwnKhXCIM7hnVg==
   /@vdtn359/mono-install/1.1.1:
     dependencies:
       cpy: 8.0.0
@@ -3896,7 +3896,7 @@ packages:
       '@hapi/iron': 5.1.4
       base64url: 3.0.1
       cookie: 0.4.0
-      next: 9.3.5_15ab9b97b1acc8923e06e722bb218d5c
+      next: 9.3.5_01496e136432c9af3919b4448420472a
       openid-client: 3.14.2
     dev: false
     engines:
@@ -10608,7 +10608,7 @@ packages:
     dependencies:
       clean-webpack-plugin: 3.0.0
       globby: 11.0.0
-      next: 9.3.5_15ab9b97b1acc8923e06e722bb218d5c
+      next: 9.3.5_01496e136432c9af3919b4448420472a
       workbox-webpack-plugin: 5.1.3
       workbox-window: 5.1.3
     dev: false
@@ -10632,7 +10632,7 @@ packages:
     dev: false
     resolution:
       integrity: sha1-yobR/ogoFpsBICCOPchCS524NCw=
-  /next/9.3.5_15ab9b97b1acc8923e06e722bb218d5c:
+  /next/9.3.5_01496e136432c9af3919b4448420472a:
     dependencies:
       '@ampproject/toolbox-optimizer': 2.2.0
       '@babel/core': 7.7.2
@@ -10671,7 +10671,7 @@ packages:
       react-dom: 16.13.1_react@16.13.1
       react-is: 16.8.6
       resolve-url-loader: 3.1.1
-      sass-loader: 8.0.2_sass@1.26.3+webpack@4.42.1
+      sass-loader: 8.0.2_sass@1.26.10+webpack@4.42.1
       style-loader: 1.0.0_webpack@4.42.1
       styled-jsx: 3.2.5_react@16.13.1
       use-subscription: 1.1.1_react@16.13.1
@@ -13053,12 +13053,12 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-hhbzAgTIX8O7SHfp2c8/kREfEn4qO/9q8C9beyY6+tvZ87EpoZ3i1RIEvp27YBswnNbY9mWd6paKVmKbAgLfZA==
-  /sass-loader/8.0.2_sass@1.26.3+webpack@4.42.1:
+  /sass-loader/8.0.2_sass@1.26.10+webpack@4.42.1:
     dependencies:
       clone-deep: 4.0.1
       loader-utils: 1.4.0
       neo-async: 2.6.1
-      sass: 1.26.3
+      sass: 1.26.10
       schema-utils: 2.6.6
       semver: 6.3.0
       webpack: 4.42.1_webpack@4.42.1
@@ -13079,14 +13079,14 @@ packages:
         optional: true
     resolution:
       integrity: sha512-7o4dbSK8/Ol2KflEmSco4jTjQoV988bM82P9CZdmo9hR3RLnvNc0ufMNdMrB0caq38JQ/FgF4/7RcbcfKzxoFQ==
-  /sass/1.26.3:
+  /sass/1.26.10:
     dependencies:
       chokidar: 3.3.1
     engines:
       node: '>=8.9.0'
     hasBin: true
     resolution:
-      integrity: sha512-5NMHI1+YFYw4sN3yfKjpLuV9B5l7MqQ6FlkTcC4FT+oHbBRUZoSjHrrt/mE0nFXJyY2kQtU9ou9HxvFVjLFuuw==
+      integrity: sha512-bzN0uvmzfsTvjz0qwccN1sPm2HxxpNI/Xa+7PlUEMS+nQvbyuEK7Y0qFqxlPHhiNHb1Ze8WQJtU31olMObkAMw==
   /sax/1.2.4:
     dev: false
     resolution:
@@ -14439,7 +14439,7 @@ packages:
       jest: '>=25 <26'
     resolution:
       integrity: sha512-TnntkEEjuXq/Gxpw7xToarmHbAafgCaAzOpnajnFC6jI7oo1trMzAHA04eWpc3MhV6+yvhE8uUBAmN+teRJh0A==
-  /ts-node/8.10.1:
+  /ts-node/8.10.2:
     dependencies:
       arg: 4.1.3
       diff: 4.0.2
@@ -14453,7 +14453,7 @@ packages:
     peerDependencies:
       typescript: '>=2.7'
     resolution:
-      integrity: sha512-bdNz1L4ekHiJul6SHtZWs1ujEKERJnHs4HxN7rjTyyVOFf3HaJ6sLqe6aPG62XTzAB/63pKRh5jTSWL0D7bsvw==
+      integrity: sha512-ISJJGgkIpDdBhWVu3jufsWpK3Rzo7bdiIXJjQc0ynKxVOVcg2oIrf2H2cejminGrptVc6q6/uynAHNCuWGbpVA==
   /ts-pnp/1.2.0:
     dev: false
     engines:
@@ -14537,10 +14537,10 @@ packages:
   /tty-browserify/0.0.0:
     resolution:
       integrity: sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY=
-  /ttypescript/1.5.10_ts-node@8.10.1:
+  /ttypescript/1.5.10_ts-node@8.10.2:
     dependencies:
       resolve: 1.15.1
-      ts-node: 8.10.1
+      ts-node: 8.10.2
     dev: true
     hasBin: true
     peerDependencies:
