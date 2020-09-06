@@ -27,7 +27,7 @@
         "cors": "2.8.5",
         "date-fns": "2.13.0",
         "extra-watch-webpack-plugin": "1.0.3",
-        "fomantic-ui-css": "2.8.4",
+        "fomantic-ui-css": "2.8.7",
         "font-awesome-minify-plugin": "1.1.0",
         "formik": "2.1.4",
         "framer-motion": "1.10.3",
