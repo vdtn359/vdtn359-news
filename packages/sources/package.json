@@ -13,7 +13,7 @@
     "dependencies": {
         "@vdtn359/news-models": "workspace:*",
         "@vdtn359/news-utils": "workspace:*",
-        "axios": "0.19.2",
+        "axios": "0.21.1",
         "bottleneck": "2.19.5",
         "cheerio": "1.0.0-rc.3",
         "date-fns": "2.13.0",
