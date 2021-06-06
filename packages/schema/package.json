@@ -14,7 +14,7 @@
         "@vdtn359/news-core": "workspace:*",
         "@vdtn359/news-models": "workspace:*",
         "@vdtn359/news-utils": "workspace:*",
-        "date-fns": "2.13.0",
+        "date-fns": "2.22.1",
         "firebase-admin": "8.10.0",
         "ioredis": "4.16.3",
         "lodash": "4.17.15",

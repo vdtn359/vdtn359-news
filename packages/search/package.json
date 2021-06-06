@@ -14,7 +14,7 @@
         "@elastic/elasticsearch": "7.6.1",
         "@vdtn359/news-models": "workspace:*",
         "@vdtn359/news-utils": "workspace:*",
-        "date-fns": "2.13.0",
+        "date-fns": "2.22.1",
         "lodash": "4.17.15"
     }
 }

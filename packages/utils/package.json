@@ -11,7 +11,7 @@
         "build": "ttsc -b tsconfig.build.json"
     },
     "dependencies": {
-        "date-fns": "2.13.0",
+        "date-fns": "2.22.1",
         "lodash": "4.17.15",
         "uuid": "7.0.3",
         "uuid-by-string": "3.0.2"
