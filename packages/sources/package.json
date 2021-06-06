@@ -16,7 +16,7 @@
         "axios": "0.19.2",
         "bottleneck": "2.19.5",
         "cheerio": "1.0.0-rc.3",
-        "date-fns": "2.13.0",
+        "date-fns": "2.22.1",
         "dompurify": "2.0.8",
         "html-to-text": "5.1.1",
         "jsdom": "16.2.2",
