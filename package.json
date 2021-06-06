@@ -41,7 +41,7 @@
         "@types/jest": "25.1.4",
         "@types/lodash": "4.14.150",
         "@types/node": "13.13.5",
-        "@types/react": "16.9.34",
+        "@types/react": "16.14.8",
         "@vdtn359/mono-install": "1.1.1",
         "@vdtn359/semantic-release-monorepo": "1.0.5",
         "@zerollup/ts-transform-paths": "1.7.12",
